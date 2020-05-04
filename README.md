@@ -23,6 +23,7 @@
 
 ## Modelo:
 
+- O treinamento e teste do modelo está no jupyter-notebook `detectar_mascara.ipynb`
 - Utilizei técnica de transfer-learning com o modelo resnet50
 - Exelente artigo sobre transfer-learning: https://towardsdatascience.com/a-comprehensive-hands-on-guide-to-transfer-learning-with-real-world-applications-in-deep-learning-212bf3b2f27a
 - Para detectar rosto utilizei um modelo bem leve do openvc, mas pode ser utilizados outros melhores: https://docs.opencv.org/3.4/db/d28/tutorial_cascade_classifier.html
