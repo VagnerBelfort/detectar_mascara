@@ -19,7 +19,7 @@
 
 - Utilizei esse data set do Kaggle: https://www.kaggle.com/ahmetfurkandemr/mask-datasets-v1
 - Baixei algumas imagens do google para complementar.
-- Link download do dataset: ` link `.
+- Link download do dataset: https://drive.google.com/file/d/1PciqYZLaIG0HLDriy9obKOduhaHVDXe2/view?usp=sharing.
 
 ## Modelo:
 
@@ -29,5 +29,5 @@
 - Para detectar rosto utilizei um modelo bem leve do openvc, mas pode ser utilizados outros melhores: https://docs.opencv.org/3.4/db/d28/tutorial_cascade_classifier.html
 - Deixei na pasta `result` algumas images testando o modelo
 - OBS: o modelo está em fase de adaptação e pode ser melhorado utilizando um detector de face mais robusto e criando mais dataset.
-- Link download dos pesos: ` link `.
+- Link download dos pesos: https://drive.google.com/file/d/1PciqYZLaIG0HLDriy9obKOduhaHVDXe2/view?usp=sharing.
 
